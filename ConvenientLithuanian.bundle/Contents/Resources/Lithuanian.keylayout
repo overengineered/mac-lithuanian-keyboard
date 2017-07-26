@@ -2,7 +2,7 @@
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
 <!-- Fri, 24 Feb 2006 Generated from KCHR: "Lithuanian" -->
 <!--Last edited by Ukelele version 3.2.5.180 on 2017-07-23 at 22:40 (GMT+3)-->
-<keyboard group="126" id="-7474" name="Lithuanian" maxout="1">
+<keyboard group="126" id="-7474" name="Convenient Lithuanian" maxout="1">
 	<layouts>
 		<layout first="0" last="0" mapSet="ANSI" modifiers="commonModifiers"/>
 	</layouts>
